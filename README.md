@@ -1,21 +1,26 @@
 # vue-mobile-audio-book
 
-> webapp
+> 酷听网移动端单页面应用
 
-## Build Setup
+## 下载安装
 
 ``` bash
-# install dependencies
+# 下载解压后再当前工作目录安装依赖包
 npm install
 
-# serve with hot reload at localhost:8080
+# 在localhost:8080启动本地服务器
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 展示效果
+
+![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome1.gif)
+
+![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome2.gif)
+
+![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome3.gif)
+
+![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome4.gif)
+
+![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome5.gif)

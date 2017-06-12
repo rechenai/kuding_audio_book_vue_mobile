@@ -17,7 +17,7 @@ npm run dev
 
 <div>
   <img src="https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome1.gif">
-  <p>切换到chrome移动界面展示，刷新后即可查看。 适用于iphone5、iphone6等手机端尺寸。</p>
+  <span>切换到chrome移动界面展示，刷新后即可查看。 适用于iphone5、iphone6等手机端尺寸。</span>
 </div>
 
 ![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome2.gif)

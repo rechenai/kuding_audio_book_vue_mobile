@@ -15,12 +15,8 @@ npm run dev
 
 ## 展示效果
 
-![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome1.gif)
+![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome1.gif) ![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome2.gif)
 
-![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome2.gif)
-
-![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome3.gif)
-
-![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome4.gif)
+![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome3.gif) ![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome4.gif)
 
 ![image](https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome5.gif)

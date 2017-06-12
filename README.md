@@ -19,18 +19,22 @@ npm run dev
   <p>切换到chrome移动界面展示，刷新后即可查看。 适用于iphone5、iphone6等手机端尺寸。</p>
   <img src="https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome1.gif">
 </div>
+
 <div>
   <p>图片懒加载，下拉滚动异步加载</p>
   <img src="https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome2.gif">
 </div>
+
 <div>
   <p>播放列表下拉滚动加载</p>
   <img src="https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome3.gif">
 </div>
+
 <div>
   <p>播放功能</p>
   <img src="https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome4.gif">
 </div>
+
 <div>
   <p>虚拟弹幕。弹幕内容来自网站评论内容添加随机时间后产生，可实时添加弹幕。弹幕随着播放进度触发，触发时间可在控制台实时看到</p>
   <img src="https://github.com/rechenai/kuding_audio_book_vue_mobile/blob/master/Gif/dome5.gif">
